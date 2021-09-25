@@ -1,0 +1,6 @@
+This is a Assignment 2 for ML 
+Assignment 2a
+Aim: Implement the classifier model with the training dataset without using smoothing and test it on the test dataset.
+
+Assignment 2a
+Aim:Implement the classifier model with the training dataset using smoothing function and test it on the test dataset.
